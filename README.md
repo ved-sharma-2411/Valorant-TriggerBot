@@ -28,6 +28,26 @@ Smooth, fast, and perfect for low-end systems—just like your favorite instant 
 
 ---
 
+## 🎯 Future Plans (AKA My TODO List)
+
+- **Give the Bot a Face!**  
+  Add a cool UI so this bot finally gets a good-looking face (and maybe a life outside of Command Prompt). 😎🖥️
+
+- **Login & Register System:**  
+  Implement a key system so only the chosen ones can access the bot. No more freeloaders! 🔑🚪
+
+- **Live Config Updates:**  
+  Currently, you have to update the config file manually and restart the app (like it’s 1999). Soon: change settings on the fly—no more rage restarts! 🔄⚙️
+
+- **Aimbot Magic:**  
+  Your aim will stick to the enemy like a magnet until they meet their inevitable doom. (Warning: May cause enemies to uninstall.) 🧲🎯  
+  And have extra chances to get detected in-game—use at your own
+
+- **Auto E Press:**  
+  Instantly press E when an enemy dies—perfect for Yoru TP, Chamber TP, or Reyna dismiss. Because who has time for extra keypresses? 🤖✨
+
+---
+
 ## Benefits 🏆
 
 - **Hands-free headshots:**  
@@ -57,7 +77,7 @@ Just plug, play, and let your enemies wonder if you’ve unlocked Ultra Instinct
 
 ## How to Use 🛠️
 
-1. Download and install the application.
+1. Download the latest release 👉 (check the "Releases" section on the right side and grab it like loot in a spike rush!). 📦⬇️
 2. Launch Valorant and run the TriggerBot.
 3. Hold an angle, relax, and let the bot do the shooting.
 4. (Optional) Brag to your friends about your “insane” reaction time. 😎
